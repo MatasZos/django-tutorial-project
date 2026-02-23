@@ -1,2 +1,1 @@
-Admin User : admin
-Admin Pass: 1234
+Admin User : admin, Admin Pass: 1234
